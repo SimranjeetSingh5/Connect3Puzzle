@@ -1,3 +1,3 @@
 # Connect3_Puzzle
-<img src="(https://user-images.githubusercontent.com/57033670/97135192-a6ae8600-1775-11eb-83aa-b11258bffcae.jpg)" width="100" height="100"/>
-![connect(2)](https://user-images.githubusercontent.com/57033670/97135196-a8784980-1775-11eb-9b2e-60cad4fc2552.jpg)
+<img src="https://user-images.githubusercontent.com/57033670/97135192-a6ae8600-1775-11eb-83aa-b11258bffcae.jpg" width="100" height="100"/>
+<img src="https://user-images.githubusercontent.com/57033670/97135196-a8784980-1775-11eb-9b2e-60cad4fc2552.jpg" width="100" height="100"/>
